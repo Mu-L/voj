@@ -58,7 +58,7 @@ The Verwandlung application consists of two primary components:
 
 The overall architecture of the application can be illustrated by the diagram provided below:
 
-![Software-Architecture](https://www.infinitescript.com/projects/Verwandlung/Software-Architecture.png)
+![Software-Architecture](https://www.infinitescript.com/projects/Verwandlung/Software-Architecture.webp)
 
 As depicted in the diagram, the Verwandlung Online Judge features support for multiple judgers. These judgers are responsible for communicating with the web application through the use of ActiveMQ.
 
